@@ -34,15 +34,15 @@ const Contacto = () => {
             <div className="info-icon-box"><i className="fi fi-rr-marker"></i></div>
             <div className="info-text">
               <h4>DIRECCIÓN</h4>
-              <p>Calle Urban Style 123<br/>28001 Madrid, España</p>
+              <p>Urban new jersey<br/>05001 usa, TEXAS</p>
             </div>
           </div>
 
           <div className="info-item">
             <div className="info-icon-box"><i className="fi fi-rr-phone-call"></i></div>
             <div className="info-text">
-              <h4>TELÉFONO</h4>
-              <p>+34 91 123 45 67</p>
+              <h4>TELÉFONO PARA COMUNICACIONES</h4>
+              <p>3002581988</p>
             </div>
           </div>
 
@@ -50,7 +50,7 @@ const Contacto = () => {
             <div className="info-icon-box"><i className="fi fi-rr-envelope"></i></div>
             <div className="info-text">
               <h4>EMAIL</h4>
-              <p>info@urbanthreads.com</p>
+              <p>infoormacion@urbanthreads.com</p>
             </div>
           </div>
 
@@ -64,7 +64,7 @@ const Contacto = () => {
         </div>
 
         <div className="contact-form-card">
-          <h3 className="form-main-title">ENVÍANOS UN MENSAJE</h3>
+          <h3 className="form-main-title">ENVÍANOS UN MENSAJE, TE RESPONDEREMOS LO ANTES POSIBLE</h3>
           
           <div className="demo-alert">
             <p><strong>Demo:</strong> Este es un formulario de demostración. Los mensajes no se enviarán realmente.</p>

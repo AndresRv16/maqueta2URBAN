@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="footer-column">
           <h2 className="footer-logo">URBAN THREADS</h2>
           <p className="footer-text">
-            Redefiniendo el estilo urbano con diseños minimalistas y calidad premium.
+            Diseños y tendencias urbanas para tu estilo único. Explora nuestra colección y encuentra tu look perfecto. ¡Visítanos hoy!
           </p>
         </div>
 
@@ -42,7 +42,7 @@ const Footer = () => {
 
       <div className="footer-bottom">
         <p className="footer-copy">
-          &copy; {currentYear} Urban Threads. Todos los derechos reservados.
+          &copy; {currentYear} Urban Threads. Todos los derechos reservados Andres Ruiz 2026 - Cesde.
         </p>
       </div>
     </footer>
